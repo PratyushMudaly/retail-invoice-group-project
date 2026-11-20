@@ -61,14 +61,11 @@ Interactive Power BI dashboards that analyze retail invoice data to understand s
 - Future work: add a date or month trend analysis, customer segmentation, and a profit forecast.
   
 
-## Team Contributions
 | Member | Contribution |
 |---|---|
-| Pratyush Mudaly | Designed the visualizations and dashboard pages, and extracted the business insights |
+| ⭐ **Pratyush Mudaly** | **Designed the visualizations and dashboard pages, and extracted the business insights** |
 | Subhashish Nanda | Data cleaning and transformation in Power Query, and created the project presentation (PPT) |
 | Ashish Kumar Das | Data modelling and DAX measures |
-
-
 ## Tools Used
 Power BI, Power Query, DAX
 
